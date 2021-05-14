@@ -3,7 +3,7 @@ import Link from "next/link";
 import { getDatabase } from "../lib/notion";
 import styles from "./index.module.css";
 
-export const databaseId = "5b53abc87b284beab0c169c9fb695b4d";
+export const databaseId = "1f8c125cb4d641d2aa73fd0c5f56f726";
 
 export default function Home({ posts }) {
   return (
